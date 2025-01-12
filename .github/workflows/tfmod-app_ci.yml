@@ -1,0 +1,38 @@
+# kics-scan disable=555ab8f9-2001-455e-a077-f2d0f41e2fb9
+# Don't warn about actions not pinned to a specific SHA
+---
+name: tfmod-app
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  terraform:
+    name: Verify Terraform module
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Terraform
+        uses: hashicorp/setup-terraform@v3
+
+      - name: Set up TFLint
+        uses: terraform-linters/setup-tflint@v4
+
+      - name: Validate
+        run: |
+          terraform init
+          terraform validate
+
+      - name: Format
+        run: |
+          terraform fmt -check .
+
+      - name: Run TFLint
+        run: tflint -c .tflint.hcl

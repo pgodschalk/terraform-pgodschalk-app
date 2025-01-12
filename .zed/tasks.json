@@ -1,0 +1,20 @@
+// Static tasks configuration.
+//
+// Example:
+[
+  {
+    "label": "KICS scan",
+    "command": "docker",
+    "args": [
+      "run",
+      "-t",
+      "-v",
+      ".:/path checkmarx/kics:latest",
+      "scan",
+      "-p",
+      "/path",
+      "-o",
+      "\"/path/\""
+    ]
+  }
+]
