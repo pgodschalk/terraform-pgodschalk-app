@@ -1,5 +1,5 @@
 module "your_app" {
-  source = "github.com/pgodschalk/tfmod-app"
+  source = "github.com/pgodschalk/terraform-pgodschalk-app"
 
   dns_record = {
     "your-app" = {

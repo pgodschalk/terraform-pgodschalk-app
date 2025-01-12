@@ -1,7 +1,7 @@
 # kics-scan disable=555ab8f9-2001-455e-a077-f2d0f41e2fb9
 # Don't warn about actions not pinned to a specific SHA
 ---
-name: tfmod-app
+name: terraform-pgodschalk-app
 
 on:
   push:

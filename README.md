@@ -12,17 +12,17 @@
 <br />
 <div align="center">
 
-<h3 align="center">@pgodschalk/tfmod-app</h3>
+<h3 align="center">terraform-pgodschalk-app</h3>
 
   <p align="center">
     A personal module to deploy an arbitrary application.
     <br />
-    <a href="https://github.com/pgodschalk/tfmod-app/blob/main/docs/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/pgodschalk/terraform-pgodschalk-app/blob/main/docs/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/pgodschalk/tfmod-app/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/pgodschalk/terraform-pgodschalk-app/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/pgodschalk/tfmod-app/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/pgodschalk/terraform-pgodschalk-app/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -62,7 +62,7 @@ A personal module to deploy an arbitrary application.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/pgodschalk/tfmod-app/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/pgodschalk/terraform-pgodschalk-app/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,8 +84,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/pgodschalk/tfmod-app/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pgodschalk/tfmod-app" alt="contrib.rocks image" />
+<a href="https://github.com/pgodschalk/terraform-pgodschalk-app/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pgodschalk/terraform-pgodschalk-app" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
@@ -100,22 +100,22 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 Patrick Godschalk - [@kernelpanics.nl](https://bsky.app/profile/kernelpanics.nl) - patrick@kernelpanics.nl
 
-Project Link: [https://github.com/pgodschalk/tfmod-app](https://github.com/pgodschalk/tfmod-app)
+Project Link: [https://github.com/pgodschalk/terraform-pgodschalk-app](https://github.com/pgodschalk/terraform-pgodschalk-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/pgodschalk/tfmod-app.svg?style=for-the-badge
-[contributors-url]: https://github.com/pgodschalk/tfmod-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pgodschalk/tfmod-app.svg?style=for-the-badge
-[forks-url]: https://github.com/pgodschalk/tfmod-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/pgodschalk/tfmod-app.svg?style=for-the-badge
-[stars-url]: https://github.com/pgodschalk/tfmod-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pgodschalk/tfmod-app.svg?style=for-the-badge
-[issues-url]: https://github.com/pgodschalk/tfmod-app/issues
-[license-shield]: https://img.shields.io/github/license/pgodschalk/tfmod-app?style=for-the-badge
-[license-url]: https://github.com/pgodschalk/tfmod-app/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/pgodschalk/terraform-pgodschalk-app.svg?style=for-the-badge
+[contributors-url]: https://github.com/pgodschalk/terraform-pgodschalk-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/pgodschalk/terraform-pgodschalk-app.svg?style=for-the-badge
+[forks-url]: https://github.com/pgodschalk/terraform-pgodschalk-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/pgodschalk/terraform-pgodschalk-app.svg?style=for-the-badge
+[stars-url]: https://github.com/pgodschalk/terraform-pgodschalk-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/pgodschalk/terraform-pgodschalk-app.svg?style=for-the-badge
+[issues-url]: https://github.com/pgodschalk/terraform-pgodschalk-app/issues
+[license-shield]: https://img.shields.io/github/license/pgodschalk/terraform-pgodschalk-app?style=for-the-badge
+[license-url]: https://github.com/pgodschalk/terraform-pgodschalk-app/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/patrick-godschalk
 [terraform]: https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=c%2B%2B&logoColor=white
