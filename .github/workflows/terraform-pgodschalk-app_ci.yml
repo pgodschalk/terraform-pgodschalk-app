@@ -27,6 +27,12 @@ jobs:
       - name: Set up TFLint
         uses: terraform-linters/setup-tflint@v4
 
+      - name: Set up cache
+        uses: actions/cache@v4
+        with:
+          path: .terraform
+          key: ${{ runner.os }}-terraform
+
       - name: Validate
         run: |
           terraform init
